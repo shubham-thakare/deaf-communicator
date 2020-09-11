@@ -7,7 +7,7 @@ This project can help you encode your voice message into the sign language.
 ### How to run?
 1. Install project requirements
     ```bash
-   pip install -r requirements.tx
+   pip install -r requirements.txt
    ```
 2. Run DEAF.py file
     ```bash
