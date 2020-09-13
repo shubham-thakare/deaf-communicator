@@ -1,5 +1,5 @@
 # DEAF Communicator
-This project can help you encode your voice message into the sign language.
+This project can help you to encode your voice message into the sign language.
 
 ### Pre-requisites
 1. Python 3.7 (venv)
